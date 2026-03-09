@@ -15,7 +15,7 @@
           <img
             src="/images/profile.jpg"
             alt="Shikha — UI/UX Designer"
-            class="w-full h-full object-cover scale-110"
+            class="relative z-10 w-full h-full object-cover scale-110"
             loading="lazy"
             @error="$event.target.style.display='none'"
           />
