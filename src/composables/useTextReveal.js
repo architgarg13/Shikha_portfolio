@@ -32,7 +32,7 @@ export function useTextReveal(elementRef, options = {}) {
     el.innerHTML = words
       .map(
         (word) =>
-          `<span style="overflow:hidden;display:inline-block;"><span class="word-inner" style="display:inline-block;transform:translateY(100%);opacity:0;">${escapeHtml(word)}&nbsp;</span></span>`
+          `<span style="overflow:hidden;display:inline-block;padding-bottom:0.15em;margin-bottom:-0.15em;"><span class="word-inner" style="display:inline-block;transform:translateY(100%);opacity:0;">${escapeHtml(word)}&nbsp;</span></span>`
       )
       .join('')
 

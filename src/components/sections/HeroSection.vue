@@ -2,7 +2,7 @@
   <section
     id="intro"
     data-section="intro"
-    class="relative min-h-screen flex items-center px-[8vw] pt-14 overflow-hidden"
+    class="relative min-h-[70vh] lg:min-h-screen flex items-center px-[8vw] pt-14 overflow-hidden"
   >
     <!-- Content -->
     <div class="max-w-[1400px] w-full mx-auto">
@@ -10,9 +10,9 @@
       <h1
         ref="headlineRef"
         class="font-serif font-bold text-white leading-[1.05] max-w-full lg:max-w-[75%]"
-        style="font-size: clamp(3rem, 7vw, 6.5rem);"
+        style="font-size: clamp(2.2rem, 7vw, 6.5rem);"
       >
-        I am Shikha, a UI/UX Designer based in Noida.
+        I am Shikha Singh, a UI/UX Designer crafting intuitive digital experiences, based in Noida.
       </h1>
     </div>
 
