@@ -20,16 +20,15 @@
         <!-- Reach Me At -->
         <div class="footer-col">
           <h3 class="text-white font-sans font-medium text-xs uppercase tracking-[0.2em] mb-4">REACH ME AT</h3>
-          <p class="text-body font-sans text-[15px] leading-relaxed">sumitmishra0110@gmail.com</p>
-          <p class="text-body font-sans text-[15px] leading-relaxed mt-2">+91-7987315606</p>
+          <p class="text-body font-sans text-[15px] leading-relaxed">shikhasingh4799@gmail.com</p>
+          <p class="text-body font-sans text-[15px] leading-relaxed mt-2">+91-7518510850</p>
         </div>
 
         <!-- Social -->
         <div class="footer-col">
           <h3 class="text-white font-sans font-medium text-xs uppercase tracking-[0.2em] mb-4">SOCIAL</h3>
           <p class="text-body font-sans text-[15px]">
-            <a href="https://www.behance.net" target="_blank" rel="noopener noreferrer" class="hover:text-white transition-colors">Behance</a>,
-            <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" class="hover:text-white transition-colors">Linkedin</a>
+            <a href="https://www.linkedin.com/in/shikha-singh-903695207/" target="_blank" rel="noopener noreferrer" class="hover:text-white transition-colors">LinkedIn</a>
           </p>
         </div>
 

@@ -18,6 +18,9 @@
 
     <!-- Email Modal -->
     <EmailModal :show="showEmailModal" @close="showEmailModal = false" />
+
+    <!-- Scroll to Top -->
+    <ScrollToTop />
   </div>
 </template>
 
@@ -31,6 +34,7 @@ import WorksSection from './components/sections/WorksSection.vue'
 import TestimonialsSection from './components/sections/TestimonialsSection.vue'
 import ContactSection from './components/sections/ContactSection.vue'
 import EmailModal from './components/modals/EmailModal.vue'
+import ScrollToTop from './components/ui/ScrollToTop.vue'
 import { useActiveSection } from './composables/useActiveSection.js'
 import { useLenis } from './composables/useLenis.js'
 

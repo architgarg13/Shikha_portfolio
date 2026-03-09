@@ -12,7 +12,7 @@
         class="font-serif font-bold text-white leading-[1.05] max-w-full lg:max-w-[75%]"
         style="font-size: clamp(3rem, 7vw, 6.5rem);"
       >
-        I am Sumit, a UI/UX designer &amp; frontend developer based in Somewhere.
+        I am Shikha, a UI/UX Designer based in Noida.
       </h1>
     </div>
 

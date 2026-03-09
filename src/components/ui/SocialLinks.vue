@@ -1,15 +1,7 @@
 <template>
   <div ref="containerRef" class="social-links hidden lg:flex flex-col items-center gap-10 fixed right-6 top-1/2 -translate-y-1/2 z-10 opacity-0">
     <a
-      href="https://www.behance.net"
-      target="_blank"
-      rel="noopener noreferrer"
-      class="text-muted text-[11px] font-sans font-medium uppercase tracking-[0.15em] -rotate-90 hover:text-white transition-colors duration-200"
-    >
-      Behance
-    </a>
-    <a
-      href="https://www.linkedin.com"
+      href="https://www.linkedin.com/in/shikha-singh-903695207/"
       target="_blank"
       rel="noopener noreferrer"
       class="text-muted text-[11px] font-sans font-medium uppercase tracking-[0.15em] -rotate-90 hover:text-white transition-colors duration-200"

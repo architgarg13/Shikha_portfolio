@@ -14,7 +14,7 @@
         class="text-white font-sans font-bold text-sm uppercase tracking-[0.15em]"
         @click.prevent="mobileOpen = false; $emit('navigate', '#intro')"
       >
-        SUMIT.
+        SHIKHA.
       </a>
 
       <!-- Desktop Nav -->

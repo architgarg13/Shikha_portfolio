@@ -14,7 +14,7 @@
         >
           <img
             src="/images/profile.jpg"
-            alt="Sumit — UI/UX Designer"
+            alt="Shikha — UI/UX Designer"
             class="w-full h-full object-cover scale-110"
             loading="lazy"
             @error="$event.target.style.display='none'"
@@ -31,7 +31,7 @@
           ref="textRef"
           class="text-body font-sans text-base leading-[1.7]"
         >
-          I am a passionate and dedicated UI/UX Designer with a strong focus on creating intuitive, user-friendly digital experiences. With experience working at Crimsons Systems, I have honed my skills in user-centered design, wireframing, prototyping, and crafting responsive solutions that align with both user needs and business goals. I thrive on solving complex problems through creativity and collaboration, working closely with cross-functional teams to deliver impactful results. Constantly driven to learn and innovate, I aim to create designs that not only look great but also provide meaningful value to users.
+          Product-focused UX/UI Designer with 4.5 years of experience designing scalable, data-driven digital experiences for complex platforms. Expert in interaction design, design systems, and workflow optimisation, with proven impact on usability and adoption. Trusted cross-functional partner skilled at translating ambiguous requirements into high-quality, production-ready designs in fast-paced Agile environments.
         </p>
       </div>
     </div>

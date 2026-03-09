@@ -104,7 +104,7 @@ defineProps({
 })
 defineEmits(['close'])
 
-const email = 'sumitmishra0110@gmail.com'
+const email = 'shikhasingh4799@gmail.com'
 const copied = ref(false)
 
 function openEmail(provider) {
