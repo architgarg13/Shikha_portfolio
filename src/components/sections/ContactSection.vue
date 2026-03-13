@@ -48,10 +48,19 @@
         <!-- Say Hello Button -->
         <div class="footer-col flex lg:justify-end">
           <button
-            class="px-10 py-4 border border-[#555] text-white font-sans font-semibold text-[13px] uppercase tracking-[0.15em] hover:border-white transition-colors duration-200"
+            class="group px-10 py-4 border border-[#555] text-white font-sans font-semibold text-[13px] uppercase tracking-[0.15em] hover:border-white transition-colors duration-200 inline-flex items-center gap-3"
             @click="$emit('openModal')"
           >
             SAY HELLO.
+            <svg
+              class="w-4 h-4 transition-transform duration-300 group-hover:translate-x-1"
+              viewBox="0 0 16 16"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="1.5"
+            >
+              <path d="M1 8h14M9 2l6 6-6 6" />
+            </svg>
           </button>
         </div>
       </div>
