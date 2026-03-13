@@ -1,6 +1,8 @@
 <template>
   <a
     :href="project.link"
+    :target="project.link !== '#' ? '_blank' : undefined"
+    :rel="project.link !== '#' ? 'noopener noreferrer' : undefined"
     class="project-card flex bg-surface-card overflow-hidden group cursor-pointer"
   >
     <!-- Thumbnail -->
